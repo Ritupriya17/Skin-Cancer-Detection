@@ -1,4 +1,3 @@
-# Skin-Cancer-Detection
 # Skin Cancer Detection
 
 A machine learning project to detect skin cancer from image data. This repository contains code and documentation for building, training, and evaluating models that classify skin lesions as benign or malignant.
